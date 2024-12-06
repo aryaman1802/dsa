@@ -7,8 +7,7 @@ This repository will contain problems and solutions to various data structures a
 ### Helpful Resources
 
 1. [Neetcode](https://neetcode.io/practice)
-2. [Complete C++ Placement DSA Course - CodeHelp](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=AyhEEXpLn2z1vq0Y)
-3. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+2. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 <br>
 
