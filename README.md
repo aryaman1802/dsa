@@ -33,3 +33,16 @@ This repository will contain problems and solutions to various data structures a
 17. Bit Manipulation
 18. Math and Geometry
 19. Miscellaneous
+
+<br>
+
+To run `python_soln.py`, first navigate to the directory where the file is located, and then type on the terminal:
+```bash
+python python_soln.py
+```
+
+To run `cpp_soln.cpp`, first navigate to the directory where the file is located, and then type on the terminal:
+```bash
+g++ cpp_soln.cpp -o otpt
+./otpt.exe
+```
