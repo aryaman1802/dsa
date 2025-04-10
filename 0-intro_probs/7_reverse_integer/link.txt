@@ -1,1 +1,8 @@
-https://leetcode.com/problems/reverse-integer/description/
+Problem link: https://leetcode.com/problems/reverse-integer/description/
+
+To run python_soln.py, first navigate to the directory where the file is located, and then type on the terminal:
+python python_soln.py
+
+To run cpp_soln.py, first navigate to the directory where the file is located, and then type on the terminal:
+g++ cpp_soln.cpp -o otpt
+./otpt.exe
