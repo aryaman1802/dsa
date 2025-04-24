@@ -44,5 +44,5 @@ python python_soln.py
 To run `cpp_soln.cpp`, first navigate to the directory where the file is located, and then type on the terminal:
 ```bash
 g++ cpp_soln.cpp -o otpt
-./otpt.exe
+./otpt
 ```
