@@ -1,0 +1,15 @@
+- https://www.geeksforgeeks.org/cpp-stl-cheat-sheet/
+
+
+STL = Standard Template Library
+
+- Arrays
+- Vector
+- Deque
+- List
+- Stack
+- Queue
+- Priority Queue
+- Set
+- Map
+- STL algorithms
