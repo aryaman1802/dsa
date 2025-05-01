@@ -1,0 +1,3 @@
+Problem link: https://www.naukri.com/code360/problems/find-unique_625159
+
+Good blog on XOR = https://florian.github.io//xor-trick/
