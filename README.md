@@ -6,6 +6,7 @@ This repository will contain problems and solutions to various data structures a
 
 ### Helpful Resources
 
+0. [Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 1. [Neetcode](https://neetcode.io/practice)
 2. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
