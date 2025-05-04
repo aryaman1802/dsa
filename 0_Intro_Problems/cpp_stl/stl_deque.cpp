@@ -59,4 +59,6 @@ int main(){
 
     cout << "size of d = " << d.size() << "\n";
 
+    // Rest of the functions are same as that of vector:
+    // begin, end, clear, insert, size, swap
 }
