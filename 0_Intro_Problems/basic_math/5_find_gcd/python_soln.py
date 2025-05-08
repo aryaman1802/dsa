@@ -14,12 +14,15 @@ def gcd2(n1, n2):
 
 
 def gcd3(n1, n2):
-    t=1
-    while (n1 != 0) and (n2 != 0):
-        t = max(n1,n2) - min(n1,n2)
-        n2 = min(n1,n2)
-        n1 = t
-    return max(n1,n2)
+    while (n1 > 0) and (n2 > 0):
+        if n1 > n2:
+            n1 = n1%n2
+        else:
+            n2 = n2%n1
+    if n1 == 0:
+        return n2
+    else:
+        return n1
 
 
 if __name__ == "__main__":
