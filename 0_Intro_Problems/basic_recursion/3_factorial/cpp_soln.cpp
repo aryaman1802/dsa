@@ -2,6 +2,8 @@
 using namespace std;
 
 // iterative approach
+// time complexity = O(n)
+// space complexity = O(1)
 int get_factorial1(int n){
     if(n<0){
         return -1;   // factorial exists for non-negative numbers
@@ -20,6 +22,8 @@ int get_factorial1(int n){
 
 
 // recursive approach
+// time complexity = O(n)
+// space complexity = O(1)
 int get_factorial2(int n){
     if((n==0) || (n==1)){
         // base case

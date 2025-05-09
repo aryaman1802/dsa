@@ -1,4 +1,6 @@
 # iterative approach
+# time complexity = O(n)
+# space complexity = O(1)
 def get_factorial1(n):
     if n<0:
         return -1      # factorial exists for non-negative numbers
@@ -12,6 +14,8 @@ def get_factorial1(n):
     
 
 # recursive approach
+# time complexity = O(n)
+# space complexity = O(1)
 def get_factorial2(n):
     if (n==0) or (n==1):
         # base case
