@@ -8,9 +8,9 @@ def get_sum1(n):
     return s
 
 
-# recursive approach
+# recursive approach (functional recursion)
 # time complexity = O(n)
-# space complexity = O(1)
+# space complexity = O(n)
 def get_sum2(n):
     if n==0:
         return 0
@@ -20,11 +20,22 @@ def get_sum2(n):
         return n + get_sum2(n-1)
     
 
+# recursive approach (parameterized recursion)
+# time complexity = O(n)
+# space complexity = O(n)
+def get_sum3(n, s):
+    if n<=0:
+        print(s)
+        return
+    else:
+        get_sum3(n-1,s+n)
+
+
 # optimal approach: discovered by Gauss
 # sum(n) = (n*(n+1))/2, where n is natural number
 # time complexity = O(1)
 # space complexity = O(1)
-def get_sum3(n):
+def get_sum4(n):
     return int((n*(n+1))/2)
 
 
@@ -33,4 +44,5 @@ if __name__ == "__main__":
     print(f"Sum from 1 to {n}:")
     print("Approach 1:", get_sum1(n))
     print("Approach 2:", get_sum2(n))
-    print("Approach 3:", get_sum3(n))
+    print("Approach 3:", get_sum3(n,0))
+    print("Approach 4:", get_sum4(n))
