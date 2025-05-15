@@ -1,6 +1,6 @@
 # DSA (Data Structures and Algorithms)
 
-This repository will contain problems and solutions to various data structures and algorithms.
+This repository will contain problems and solutions to various data structure and algorithm problems.
 
 <br>
 
