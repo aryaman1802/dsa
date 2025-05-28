@@ -9,6 +9,7 @@ This repository will contain problems and solutions to various data structure an
 0. [Strivers A2Z DSA Course](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 1. [Neetcode](https://neetcode.io/practice)
 2. [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+3. [Michael Sambol (Data Structures and Algorithms in X minutes)](https://www.youtube.com/@MichaelSambol/playlists)
 
 <br>
 
