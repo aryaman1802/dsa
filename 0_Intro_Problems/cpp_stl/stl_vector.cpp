@@ -1,4 +1,3 @@
-// #include <bits/stdc++.h>   // this contains all necessary headers
 #include <vector>       // the one we need for only vectors
 #include <iostream>
 using namespace std;

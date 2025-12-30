@@ -1,4 +1,3 @@
-// #include <bits/stdc++.h>   // this contains all necessary headers
 #include <array>       // the one we need for only arrays
 #include <iostream>
 using namespace std;

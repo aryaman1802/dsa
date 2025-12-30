@@ -1,4 +1,3 @@
-// #include <bits/stdc++.h>   // this contains all necessary headers
 #include <deque>       // the one we need for only deques
 #include <iostream>
 using namespace std;
